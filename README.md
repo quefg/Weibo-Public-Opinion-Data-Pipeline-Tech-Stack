@@ -5,6 +5,16 @@
 > 
 > However, the demo below illustrates the full pipeline, UI interaction, and analytical capabilities of the system.
 
+<p align="center">
+  <img src="Demo_CLI_monitoring.gif" alt="Backend CLI Demo" width="100%">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="Demo_sample_web.gif" alt="Frontend Web Demo" width="100%">
+</p>
+
 A robust, two-stage Python crawler designed to scrape Weibo posts, detailed metadata, and hierarchical comments (including "reply-to-reply" threads) based on specific keywords.
 
 Designed for **Data Analysis**, **Sentiment Analysis**, and **Public Opinion Monitoring**.

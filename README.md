@@ -109,8 +109,3 @@ The final output is saved in `crawler_results/2025_comments_detailed_final.csv`.
 | **parent_comment_id** | If empty, it's a root comment. If filled, it's a reply to another comment. |
 | **comment_like_count** | Number of likes on the specific comment. |
 
-## ⚠️ Important Notes
-
-1. **Cookie Expiry:** Weibo cookies usually last 12-24 hours. If the script prints `COOKIE_EXPIRED` or "Cookie失效", repeat **Step 1** to get a new one.
-2. **Rate Limiting:** Do not set the sleep timers (`time.sleep`) too low. Weibo is aggressive against fast crawlers.
-3. **Data Privacy:** This tool is for research/educational purposes. Please respect user privacy and Weibo's Terms of Service.

@@ -1,7 +1,7 @@
 # 🕷️ Weibo Comment & Sentiment Crawler
 
 > **⚠️ Confidential Research Project**
-> This repository serves as a demonstration for an ongoing academic research project. Due to the sensitive nature of the novel algorithms and unpublished methodologies involved, the **source code is currently confidential** and cannot be publicly released.
+> This repository serves as a demonstration for an ongoing academic research project. Due to the sensitive information involved, the **source code is currently confidential** and cannot be publicly released.
 > 
 > However, the demo below illustrates the full pipeline, UI interaction, and analytical capabilities of the system.
 
